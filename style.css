@@ -94,6 +94,7 @@ img{
 
 
 
+
 .container {
     text-align: center;
     padding: 20px;
@@ -103,10 +104,10 @@ img{
 }
 
 
-.container {
+.container-foot {
     text-align: center;
-    padding: 20px;
-    background: white;
+    padding: 2px;
+    background: #202020;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
